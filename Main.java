@@ -6,6 +6,7 @@ public class Main {
        int b;
        String operation;
        int answer;
+       int newVar;
        Scanner scanner = new Scanner(System.in);
        System.out.println("Welcome to my calculator");
        System.out.println("Enter first number:");
